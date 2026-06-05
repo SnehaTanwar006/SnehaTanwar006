@@ -1,112 +1,79 @@
-<h1 align="center">Hi, I'm Sneha Tanwar 👋</h1>
-<h3 align="center">Aspiring Engineer | Developer | Builder in Python, Automation & AI</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Sneha%20Tanwar&fontSize=50&fontAlignY=35&desc=Building%20AI%20that%20respects%20hardware%20and%20human%20attention&descAlignY=55" />
+  
+  <p>
+    <a href="https://linkedin.com/in/sneha-tanwar-a8186a213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sneha-tanwar-a8186a213/">LinkedIn</a> •
-  <a href="https://github.com/SnehaTanwar006">GitHub</a> •
-  <a href="https://www.kaggle.com/snehazz">Kaggle</a>
-</p>
+### `~/whoami`
+
+```javascript
+const sneha = {
+  role: "Undergrad / AI Builder",
+  school: "Thapar Institute of Engineering & Technology",
+  program: "B.E. Electrical & Computer Engineering",
+  obsession: ["AI agents", "Edge ML", "Ethical AI", "Resource-Constrained Systems"],
+  stack: ["Python", "C++", "MATLAB", "HTML/CSS/JS"],
+  vibe: "turn raw intelligence into usable, low-friction products",
+}
+```
+
+I build at the intersection of hardware constraints and human-centric design. Lately, I've been exploring the gap between powerful AI and ethical execution; building systems that actively reduce human cognitive load and decision fatigue rather than just adding to the noise.
+
+📬 tanwarsneha1959@gmail.com
+
+### `~/now`
+
+*   🛠️ **Tinkering with:** Few-Shot Anomaly Detection for Resource-Constrained Industrial IoT using quantization and distillation.
+*   🌱 **Learning:** Advanced data structures, Full-stack development, and clean AI design.
+*   🎯 **Goal '26:** Ship impactful AI-integrated web systems, low-friction products.
 
 ---
 
-### About Me
+## 📌 `Featured Work`
 
-My work sits at the intersection of hardware constraints, machine learning, and human-centric design. I am currently pursuing an undergraduate degree in **Electrical & Computer Engineering (ECE)** at the **Thapar Institute of Engineering & Technology (TIET)**, where I focus on developing novel, patentable solutions.
-
-- 🎓 Student at **Thapar Institute of Engineering & Technology**
-- ⚡ Interested in **Python, AI/ML, Web Development, Automation, and Embedded Systems**
-- 🧠 I enjoy turning ideas into practical projects that actually solve something
-- 🛠️ I like building with **code, curiosity, and a lot of experimentation**
-- 🌱 Currently learning and improving my skills in **full-stack development, data science, and intelligent systems**
-
----
-
-- 🧠 **Research Interest:** Deeply interested in **Calm Technology** and **Ethical AI**. I study the trade-offs between efficiency and ethics, aiming to build systems that actively reduce human cognitive load and decision fatigue.
-- 🏆 **Recent Highlight:** Shortlisted as a National Finalist for an IIT Roorkee hackathon with a project focused on using technology to minimize cognitive burden.
-- 🎯 **Current Focus:** AI agents, intelligent infrastructure, and optimizing machine learning for edge environments.
-
-## 🚀 Featured Work & Research
-
-*   **Few-Shot Anomaly Detection for Resource-Constrained Industrial IoT:** 
-    A research-driven project applying quantization and model distillation techniques to make anomaly detection lightweight enough for edge devices and industrial hardware.
-*   **Cognitive Load Reduction Engine (IIT Roorkee National Finalist):** 
-    Exploring AI's role in filtering noise and delivering ethical, low-friction decision-support systems.
+*   **Cognitive Load Reduction Engine:** National Finalist at IIT Roorkee hackathon.
+*   **Edge Anomaly Detection:** Lightweight AI tailored for industrial hardware constraints.
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Domains:**  
-![AI & Machine Learning](https://img.shields.io/badge/AI_%26_Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures-4A4A55?style=for-the-badge)
-![Digital Circuits & Power Systems](https://img.shields.io/badge/Hardware_&_IoT-000000?style=for-the-badge&logo=arduino&logoColor=white)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git,github,vscode,mysql,linux" />
 </p>
 
----
+*Languages:*  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Featured Projects
-
-- **Multimodal Image-to-Speech Pipeline**  
-  Image → text → audio workflow built as a mini AI project
-
-- **Automated Email Extraction Tool**  
-  Web crawler / email scraper for structured data extraction
-
-- **Job Tracker Management System**  
-  A clean Flask-based app to manage internship and job applications
-
-- **Python-Scripting-Utility**  
-  Python assignment and scripting work focused on utility and logic
-
-- **Python_EDA**  
-  Exploratory data analysis notebooks
-
-- **Python-QR-Code-Engine**  
-  QR-related utility project
+*Domains:*  
+![AI & Machine Learning](https://img.shields.io/badge/AI_%26_Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures-4A4A55?style=for-the-badge)
+![Digital Circuits & Power Systems](https://img.shields.io/badge/Hardware_&_IoT-000000?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-### Focus Areas
-
-- Python Development
-- Web Scraping & Automation
-- Flask Web Apps
-- Machine Learning & Data Science
-- Embedded Systems / IoT
-- Problem Solving
-
----
-
-### GitHub Stats
+## 🔗 `Find Me Elsewhere`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnehaTanwar006&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaTanwar006&theme=transparent" alt="GitHub streak" />
+  <a href="mailto:tanwarsneha1959@gmail.com"><img src="https://img.shields.io/badge/-MAIL-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
+  <a href="https://github.com/SnehaTanwar006"><img src="https://img.shields.io/badge/-GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+  <a href="https://x.com/Sneha_Tanwar06"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
+  <a href="https://discord.gg/yXKXdzzC"><img src="https://img.shields.io/badge/-DISCORD-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
-
----
-
-### Currently Exploring
-
-- Building stronger **real-world projects**
-- Improving **DSA and coding consistency**
-- Learning how to make projects look more **professional and product-ready**
-- Blending **AI + automation + development** into useful solutions
-
----
 
 ### Motto
 
 > Build. Learn. Improve. Repeat.
 
+<p align="center"><i>working on calm tech or edge ML? send me a note.</i></p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=130&section=footer" />
 </p>
