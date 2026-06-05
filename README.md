@@ -11,6 +11,8 @@
 
 ### About Me
 
+My work sits at the intersection of hardware constraints, machine learning, and human-centric design. I am currently pursuing an undergraduate degree in **Electrical & Computer Engineering (ECE)** at the **Thapar Institute of Engineering & Technology (TIET)**, where I focus on developing novel, patentable solutions.
+
 - 🎓 Student at **Thapar Institute of Engineering & Technology**
 - ⚡ Interested in **Python, AI/ML, Web Development, Automation, and Embedded Systems**
 - 🧠 I enjoy turning ideas into practical projects that actually solve something
@@ -18,8 +20,6 @@
 - 🌱 Currently learning and improving my skills in **full-stack development, data science, and intelligent systems**
 
 ---
-
-My work sits at the intersection of hardware constraints, machine learning, and human-centric design. I am currently pursuing an undergraduate degree in **Electrical & Computer Engineering (ECE)** at the **Thapar Institute of Engineering & Technology (TIET)**, where I focus on developing novel, patentable solutions.
 
 - 🧠 **Research Interest:** Deeply interested in **Calm Technology** and **Ethical AI**. I study the trade-offs between efficiency and ethics, aiming to build systems that actively reduce human cognitive load and decision fatigue.
 - 🏆 **Recent Highlight:** Shortlisted as a National Finalist for an IIT Roorkee hackathon with a project focused on using technology to minimize cognitive burden.
@@ -46,6 +46,10 @@ My work sits at the intersection of hardware constraints, machine learning, and 
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures-4A4A55?style=for-the-badge)
 ![Digital Circuits & Power Systems](https://img.shields.io/badge/Hardware_&_IoT-000000?style=for-the-badge&logo=arduino&logoColor=white)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git,github,vscode,mysql,linux" />
+</p>
+
 ---
 
 ### Featured Projects
@@ -67,14 +71,6 @@ My work sits at the intersection of hardware constraints, machine learning, and 
 
 - **Python-QR-Code-Engine**  
   QR-related utility project
-
----
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git,github,vscode,mysql,linux" />
-</p>
 
 ---
 
