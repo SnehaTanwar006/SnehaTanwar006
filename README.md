@@ -21,7 +21,7 @@ const sneha = {
 
 I build at the intersection of hardware constraints and human-centric design. Lately, I've been exploring the gap between powerful AI and ethical execution; building systems that actively reduce human cognitive load and decision fatigue rather than just adding to the noise.
 
-📬 tanwarsneha1959@gmail.com
+📬 [![Gmail](https://img.shields.io/badge/Email-tanwarsneha1959-D44638?style=flat&logo=gmail&logoColor=white)](mailto:tanwarsneha1959@gmail.com)
 
 ### `~/now`
 
@@ -40,7 +40,7 @@ I build at the intersection of hardware constraints and human-centric design. La
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git,github,vscode,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,cpp,matlab,html,css,js,flask,git,github,vscode,mysql,linux" />
 </p>
 
 *Languages:*  
